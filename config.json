@@ -69,12 +69,7 @@
 
         ]
       },
-	     {
-    "title":"Le Sport avec CANAL",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
+	    
    {
         "title":"Le Sport avec CANAL",
         "provider":"youtube",
