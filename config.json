@@ -69,6 +69,15 @@
 
         ]
       },
+	       {
+        "title":"المباريات الودية",
+        "provider":"youtube",
+        "arguments":[
+          "UCutIgEWpkJY9XiVrUmsyhtA",
+          "channel"
+
+        ]
+      },
 	    
    {
         "title":"Le Sport avec CANAL",
