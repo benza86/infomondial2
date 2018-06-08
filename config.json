@@ -1,29 +1,4 @@
-[
-  {
-    "title":"أخبار",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-	      {
-        "title":"كأس العالم",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "18"
-        ]
-      }
-	  ,
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "http://shevahd.fr/wp-json/wp/v2/"
-        ]
-      }
 
-    ]
-  },
   
   {
     "title":"برامج تونس في المونديال",
@@ -31,12 +6,21 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-
-      {
-	              "title":"برنامج مندياليست اخر حلقة في الأسفل",
+   {
+        "title":"ملخصات",
         "provider":"youtube",
         "arguments":[
-          "PLtKHe7Z2QnnECA3_-46wkQxwMNW5ofjvi",
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	    
+      {
+	              "title":"برنامج مندياليست ",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QW9JaQ4oHqQA3T9QMy7Xuiv",
           "playlist"
         ]
  
@@ -60,15 +44,7 @@
         ]
       },
 	  
-	  	  	   {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
+	  	  	
 	       {
         "title":"المباريات الودية",
         "provider":"youtube",
@@ -161,6 +137,32 @@
       }
     ]
 
+  },
+[
+  {
+    "title":"أخبار",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+	      {
+        "title":"كأس العالم",
+        "provider":"wordpress",
+        "arguments":[
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+	  ,
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "http://shevahd.fr/wp-json/wp/v2/"
+        ]
+      }
+
+    ]
   },
   {
     "title":"أخبار سريعة",
