@@ -54,6 +54,16 @@
 
         ]
       },
+	     {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	    ,
 	    
    {
         "title":"Le Sport avec CANAL",
@@ -111,16 +121,7 @@
           "channel"
         ]
       }
-	   ,
-      {
-              "title":"تعليق عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      }
+	   
 	    ,
       {
         "title":"مقتطفات",
