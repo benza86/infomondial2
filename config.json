@@ -1,7 +1,7 @@
 [
   
   {
-    "title":"برامج تونس في المونديال",
+    "title":"الملخصات و البرامج و الأهداف",
     "drawable":"",
     "submenu":"فيديوهات",
     "iap":false,
@@ -25,6 +25,16 @@
         ]
  
       },
+	      {
+              "title":"مباريات تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QVD_JFYBsNvwAUh_uI89TYd",
+          "playlist"
+
+        ]
+      }
+	    ,
 	      {
         "title":"اخر الأخبار",
         "provider":"youtube",
@@ -136,7 +146,7 @@
   {
     "title":"تونس اسبانيا مباشر",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"شاهد المباريات مباشرة",
     "iap":false,
     "tabs":[
       {
@@ -152,7 +162,7 @@
 {
     "title":"بث مباشر",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"شاهد المباريات مباشرة",
     "iap":false,
     "tabs":[
       {
@@ -214,7 +224,7 @@
   {
     "title":"نتائج",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"أخري",
     "iap":false,
     "tabs":[
       {
@@ -230,7 +240,7 @@
   {
     "title":"فيديوهات",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"أخري",
     "iap":false,
     "tabs":[
       {
@@ -246,7 +256,7 @@
   {
     "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"أخري",
     "iap":false,
     "tabs":[
       {
