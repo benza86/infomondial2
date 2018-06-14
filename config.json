@@ -143,6 +143,22 @@
       }
     ]
   },
+	{
+    "title":"الأهداف لحضة بلحضة",
+    "drawable":"",
+    "submenu":"شاهد المباريات مباشرة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.yalla-shoot.com/mobile/frame-13703.html"
+	]
+      }
+    ]
+
+  },
  
 {
     "title":"بث مباشر",
