@@ -6,13 +6,83 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-   {
+ {
+	"title":"الاستوديو التحليلي",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+ 
+      },
+	         {
+	"title":"كواليس كأس العالم",
+        "provider":"youtube",
+        "arguments":[
+          "UCwnMlne83-VQMTdIgsp6luA",
+          "channel"
+        ]
+ 
+      },
+	     
+      {
         "title":"ملخصات",
         "provider":"youtube",
         "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	        	  {
+        "title": " English Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
           "channel"
 
+        ]
+      },
+	       {
+        "title":"كواليس المونديال",
+        "provider":"youtube",
+        "arguments":[
+          "UCe9Wb6D8SQR0gyNfgNLZaiw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"كواليس المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UC3_N5eFRpGNhW9VnwQlvQWg",
+          "channel"
+        ]
+      },
+	 {
+        "title":"كواليس تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
+
+        ]
+      },
+	          {
+        "title":"كواليس مصر",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+ {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
         ]
       },
 	    
@@ -60,58 +130,8 @@
           "UCCEzlzAlpdIWScNLTxCsW3Q",
           "channel"
         ]
-      },
-	    	     {
-        "title":"الاستوديو التحليلي",
-        "provider":"youtube",
-        "arguments":[
-          "UCqXVEbCxzMh-Xljo7ApVgTQ",
-          "channel"
-        ]
-      },
-	       {
-        "title":"كواليس المونديال",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	        {
-        "title":"كواليس المغرب",
-        "provider":"youtube",
-        "arguments":[
-          "UC3_N5eFRpGNhW9VnwQlvQWg",
-          "channel"
-        ]
-      },
-	          {
-        "title":"كواليس تونس",
-        "provider":"youtube",
-        "arguments":[
-          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
-          "playlist"
+      }	  , 
 
-        ]
-      },
-	    	          {
-        "title":"كواليس مصر",
-        "provider":"youtube",
-        "arguments":[
-          "UCWLo4r-9_x4GCJCFShNFq0A",
-          "channel"
-
-        ]
-      },
-	    
- {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
    {
         "title":" ملخصات انجليزي",
         "provider":"youtube",
