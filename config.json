@@ -6,6 +6,15 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	       {
+        "title":"مباريات ودية",
+        "provider":"youtube",
+        "arguments":[
+          "UCP1cc6fUl_eVu114oZ75Qag",
+          "channel"
+        ]
+      },  
+	    
  {
 	"title":"الاستوديو التحليلي",
         "provider":"youtube",
